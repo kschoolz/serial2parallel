@@ -5,13 +5,11 @@
 #
 # This script takes a input command list and runs a certain number of jobs at once.
 #
+# As processes finish, new processes from the list are started, until all proceses have ran.
+#
 # Commands to be executed must be separated by a newline character within the
 # input file.
-#
-# $MAX_JOBS and $CMD_LIST must be defined for this script to run -- they do not
-# default to any sort of default value.  The script will terminate if either is
-# not defined.
-#
+
 # Usage:
 #   serial2parallel <max_proc> <cmd_file>
 #
