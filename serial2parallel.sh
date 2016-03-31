@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ------------------------------------------------------------------------------
-# Koh Schooley (kschooley@osc.edu), Ohio Supercomputer Center
+# @author kschoolz
 #     serial2parallel
 #
 # This script takes a input command list and runs a certain number of jobs at once.
