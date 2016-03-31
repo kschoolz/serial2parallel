@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # ------------------------------------------------------------------------------
-# Koh Schooley (kschooley@osc.edu), Ohio Supercomputer Center
-#     serial2parallel
+# @Author kschoolz
 #
 # Much of this code is taken/derived from http://stackoverflow.com/a/6594537
 #
